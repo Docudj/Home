@@ -10,7 +10,7 @@ This a an effort to boost the Skycoin ecosystem, not only because I am an invest
 Write to me at docuys@gmail.com
 
 Ps: If you like what you see and or read, please support my effort by making a donation (with Skycoins (SKY) or Bitcoin (BTC)).
-SKY address: 5Ghbhs4MBQpV2CHMTJ98Ch8Ybk51wCXuPW
+
 BTC address: 3FjGW37Z9pzY77kmbFvG8SWQQbWnQ79A2K
 
 Much appreciated!
