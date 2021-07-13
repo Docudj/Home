@@ -9,8 +9,4 @@ Is about to give the new "CX language" (a la Skycoin) a go (haven't done any ser
 This a an effort to boost the Skycoin ecosystem, not only because I am an investor, but to support the concept of a decentralised internet AND to see whether and HOW blockchain technology can be applied successfully in a typical business scenario. I am going to need a lot of technical implementation support and hope that I'll be able to draw on help from other likeminded that support the stated objective (will have to define the goal VERY clearly and absolutely UNAMBIGUOUSLY!). Maybe this is the point where ideas may already come in very handy??
 Write to me at docuys@gmail.com
 
-Ps: If you like what you see and or read, please support my effort by making a donation (with Skycoins (SKY) or Bitcoin (BTC)).
 
-BTC address: 3FjGW37Z9pzY77kmbFvG8SWQQbWnQ79A2K
-
-Much appreciated!
